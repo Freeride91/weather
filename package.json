@@ -1,5 +1,6 @@
 {
   "name": "polyak_weather",
+  "homepage": "http://polyakandras.hu/idojaras/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,9 +8,15 @@
     "@types/node": "12.12.6",
     "@types/react": "16.9.11",
     "@types/react-dom": "16.9.4",
+    "@types/reactstrap": "^8.0.6",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "moment": "^2.24.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
+    "react-moment": "^0.9.6",
     "react-scripts": "3.2.0",
+    "reactstrap": "^8.1.1",
     "typescript": "3.7.2"
   },
   "scripts": {
